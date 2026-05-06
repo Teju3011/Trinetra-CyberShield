@@ -1,0 +1,13 @@
+streamlit
+pandas
+networkx
+matplotlib
+scikit-learn
+geoip2
+reportlab
+plotly
+scapy
+requests
+pyshark
+nest_asyncio
+streamlit-oauth requests
